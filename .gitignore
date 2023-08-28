@@ -1,0 +1,7 @@
+gcodes/
+klipper_macros/
+logs/
+backup/
+comms/
+printer-*.cfg
+.moonraker.uuid
